@@ -6,7 +6,9 @@ This repository contains mainly perl scripts that correspond to the analsisys wo
 ![Workflow I](/img/Workflow1.PNG)
 
 ## Workflow - part II
-![Workflow II](/img/Workflow2.png)
+![Workflow II](/img/Workflow2.PNG)
 
 ## Workflow - part III
-![Workflow III](/img/Workflow3.png)
+![Workflow III](/img/Workflow3.PNG)
+
+Perl scripts were created by Elisabeth Wischnitzki.
